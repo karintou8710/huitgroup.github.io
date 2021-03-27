@@ -58,6 +58,21 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 ![image](https://cdn.discordapp.com/attachments/805470398950277162/823906619695824946/2021-03-23_22.10.03.png)
 
+### 新歓の参加方法
+
+<!-- フォームのURLは未設定 -->
+1. HUITのTwitter垢へDMを送るか、[こちらのフォーム]()を入力をしてzoomのリンクを受け取る。
+
+2. 新歓当日に受け取ったリンクをクリックして参加する。
+
+新歓に参加するにはzoomのインストールが必須となります。
+
+zoomのインストール方法、具体的な参加方法は以下のリンクをご確認ください。 
+
+[Windowsの方はこちら](https://www.fortune-factory.net/2020/07/zoom-pc-1)
+
+[Macの方はこちら](https://yogashare.info/blog/zoom-macbook-2/)
+
 ---
 
 ## 👨‍💻 これまでの活動
