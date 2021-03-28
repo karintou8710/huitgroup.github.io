@@ -26,7 +26,7 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 全てオンライン（Zoom）での開催となります。参加方法などは現在準備中なので、更新をお待ちください。
 （3/23 現在）
 
-[新歓詳細はこちら！]( {{site.baseurl}}/welcomeparty )[: target=_blank]
+[新歓詳細はこちら！]( {{site.baseurl}}/welcomeparty )
 
 <!--各セッションは日本語で行われます。-->
 
