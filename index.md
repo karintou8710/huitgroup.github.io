@@ -32,7 +32,7 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 <!-- （仮画像） -->
 
-![image](https://cdn.discordapp.com/attachments/805470398950277162/823906619695824946/2021-03-23_22.10.03.png)
+![image]({{site.baseurl}}/WelcomePartySchedule.png)
 
 <!--各セッションは日本語で行われます。-->
 
