@@ -112,7 +112,7 @@
 <!-- ページ内遷移用のaタグ -->
 <a id="join"></a>
 
-### ✏ 新歓の参加方法
+### 📝 新歓の参加方法
 
 <!-- フォームのURLは未設定 -->
 1. HUITのTwitter ([@huitclub](https://twitter.com/huitclub/))へDMを送るか、[こちらのフォーム]()を入力をしてzoomのリンクを受け取る。
@@ -127,3 +127,8 @@ zoomのインストール方法、具体的な参加方法は以下のリンク�
 
 [Macの方はこちら](https://yogashare.info/blog/zoom-macbook-2/)
 
+---
+
+## ✉️ お問い合わせ
+
+新歓について質問がある方は、Twitter ([@huitclub](https://twitter.com/huitclub/)) まで DM お願いします！
