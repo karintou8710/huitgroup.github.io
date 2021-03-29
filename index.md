@@ -1,4 +1,4 @@
-![image](/logo192.png)
+![image]({{site.baseurl}}/logo192.png)
 
 # HUIT 北大 IT 研究会
 
@@ -28,7 +28,7 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 <!--  target="_blank"を使用する為htmlタグを直接書く -->
 
-<a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
+<a href="/welcomeparty" target="_blank" rel="noopener noreferrer"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
 
 <!-- （仮画像） -->
 
