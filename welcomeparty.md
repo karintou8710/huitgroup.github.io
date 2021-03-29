@@ -36,7 +36,7 @@
 | ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
 | ②            | 19:15~20:00 | [@imd555](https://twitter.com/imd555)           | プログラミングを始めよう！                 |
 | ③            | 20:00~20:45 | [@monkukui2](https://twitter.com/monkukui2)     | オセロを 30 分で作るライブコーディング         |
-| **4/13(火)** |
+| **4/20(火)** |
 | ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
 | ②            | 19:15~20:00 | [@ayumin](https://twiiter.com/shoumoji)         | json ってなに？から始めるデータ記述言語紹介    |
 | ③            | 20:00~20:45 | [@takapiro_99](https://twitter.com/takapiro_99) | Python で LINE Bot を 作るライブコーディング    |
@@ -91,7 +91,7 @@
 
 <br>
 
-**4/13(火)　19:15~20:00　json ってなに？から始めるデータ記述言語紹介**　by　[@ayumin](https://twiiter.com/shoumoji)
+**4/20(火)　19:15~20:00　json ってなに？から始めるデータ記述言語紹介**　by　[@ayumin](https://twiiter.com/shoumoji)
 
 対象レベル：
 
@@ -99,7 +99,7 @@
 
 <br>
 
-**4/13(火)　20:00~20:45　Python で LINE Bot を 作るライブコーディング**　by　[@takapiro_99](https://twitter.com/takapiro_99)
+**4/20(火)　20:00~20:45　Python で LINE Bot を 作るライブコーディング**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
 対象レベル：
 
