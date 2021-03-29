@@ -30,7 +30,9 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 ///////////////
 
-<a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer">新歓の詳細はこちら！</a>
+<!-- <a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer">新歓の詳細はこちら！</a> -->
+
+<button onclick="location.href='{{site.baseurl}}/welcomeparty'" target="_blank" rel="noopener noreferrer">新歓の詳細はこちら！</button>
 
 ///////////////
 

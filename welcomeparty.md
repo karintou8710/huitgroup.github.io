@@ -71,11 +71,14 @@
 
 **4/2(金)　20:00~20:45　Python によるデータ整形**　by　[@gojiteji](https://twitter.com/gojiteji)
 
-対象レベル：
+- 対象レベル
+    - プログラミング初心者
 
-概要：
+- 概要
+    - プログラミング言語Pythonを使ってcovid-19の動向を探る
 
-必要な物：
+- 必要な物
+    - ハンズオンに参加したい人はパソコンとwebブラウザー（Chrome推奨)
 
 <br>
 
@@ -91,11 +94,14 @@
 
 **4/9(金)　20:00~20:45　オセロを 30 分で作るライブコーディング**　by　[@monkukui2](https://twitter.com/monkukui2)
 
-対象レベル：
+- 対象レベル
+    - プログラミング初心者
 
-概要：
+- 概要
+    - C++ で CL で動くオセロをライブコーディング
 
-必要な物：
+- 事前に必要なこと
+    - C++（or C）の基礎的な文法の学習
 
 <br>
 
@@ -130,7 +136,7 @@
 ### 📝 新歓の参加方法
 
 <!-- フォームのURLは未設定 -->
-1. HUITのTwitter ([@huitclub](https://twitter.com/huitclub/))へDMを送るか、[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe8yyWIPMa-cB4NiONBPLOeMuwXxO6gpRNIMOQoK9J4qOI-fw/viewform?usp=sf_link)を入力をしてZoomのリンクを受け取る。
+1. [こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe8yyWIPMa-cB4NiONBPLOeMuwXxO6gpRNIMOQoK9J4qOI-fw/viewform?usp=sf_link)を入力をしてZoomのリンクを受け取る。
 
 2. 新歓当日に受け取ったリンクをクリックして参加する。
 
