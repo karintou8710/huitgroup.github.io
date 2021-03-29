@@ -65,17 +65,23 @@
 
 必要な物：
 
+<br>
+
 **4/2(金)　20:00~20:45　Python によるデータ整形**　by　[@gojiteji](https://twitter.com/gojiteji)
 
 対象レベル：
 
 必要な物：
 
+<br>
+
 **4/9(金)　19:15~20:00　プログラミングを始めよう！**　by　[@imd555](https://twitter.com/imd555)
 
 対象レベル：
 
 必要な物：
+
+<br>
 
 **4/9(金)　20:00~20:45　オセロを 30 分で作るライブコーディング**　by　[@monkukui2](https://twitter.com/monkukui2)
 
@@ -89,11 +95,15 @@
 
 必要な物：
 
+<br>
+
 **4/13(火)　20:00~20:45　Python で LINE Bot を 作るライブコーディング**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
 対象レベル：
 
 必要な物：
+
+<br>
 
 ---
 
