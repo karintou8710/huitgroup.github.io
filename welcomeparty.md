@@ -89,6 +89,8 @@
 
 必要な物：
 
+<br>
+
 **4/13(火)　19:15~20:00　json ってなに？から始めるデータ記述言語紹介**　by　[@ayumin](https://twiiter.com/shoumoji)
 
 対象レベル：
