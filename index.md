@@ -27,7 +27,7 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 （3/23 現在）
 
 <!--  target="_blank"を使用する為htmlタグを直接書く -->
-<a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer">新歓詳細はこちら！</a>
+<a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer">**新歓の詳細はこちら！**</a>
 
 <!-- （仮画像） -->
 

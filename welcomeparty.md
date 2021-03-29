@@ -9,11 +9,13 @@
 
 <!-- ↑english page なかったらいらん -->
 
+---
+
 ### 目次
 
 - [新歓スケジュール](#schedule)
 
-- [新歓の発表詳細](#detail)
+- [各発表の詳細](#detail)
 
 - [新歓の参加方法](#join)
 
@@ -56,13 +58,14 @@
 ### 新歓の発表詳細
 
 
+
 <!-- ページ内遷移用のaタグ -->
 <a id="join"></a>
 
 ### 新歓の参加方法
 
 <!-- フォームのURLは未設定 -->
-1. HUITのTwitter垢へDMを送るか、[こちらのフォーム]()を入力をしてzoomのリンクを受け取る。
+1. HUITのTwitter ([@huitclub](https://twitter.com/huitclub/))へDMを送るか、[こちらのフォーム]()を入力をしてzoomのリンクを受け取る。
 
 2. 新歓当日に受け取ったリンクをクリックして参加する。
 
@@ -73,3 +76,4 @@ zoomのインストール方法、具体的な参加方法は以下のリンク�
 [Windowsの方はこちら](https://www.fortune-factory.net/2020/07/zoom-pc-1)
 
 [Macの方はこちら](https://yogashare.info/blog/zoom-macbook-2/)
+
