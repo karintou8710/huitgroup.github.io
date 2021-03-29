@@ -52,18 +52,20 @@
 
 ![image](https://cdn.discordapp.com/attachments/805470398950277162/823906619695824946/2021-03-23_22.10.03.png)
 
+---
+
 <!-- ページ内遷移用のaタグ -->
 <a id="detail"></a>
 
 ### 各発表の詳細情報
 
-**4/2(金)**　19:15~20:00　ぼくがかんがえるさいきょうのハッカーのなりかた　by　[@takapiro_99](https://twitter.com/takapiro_99)
+**4/2(金)　19:15~20:00　ぼくがかんがえるさいきょうのハッカーのなりかた**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
 対象レベル：
 
 必要な物：
 
-**4/2(金)**　20:00~20:45　Python によるデータ整形　by　[@gojiteji](https://twitter.com/gojiteji)
+**4/2(金)　20:00~20:45　Python によるデータ整形**　by　[@gojiteji](https://twitter.com/gojiteji)
 
 対象レベル：
 
@@ -83,11 +85,17 @@
 
 **4/13(火)**　19:15~20:00　json ってなに？から始めるデータ記述言語紹介　by　[@ayumin](https://twiiter.com/shoumoji)
 
+対象レベル：
+
+必要な物：
+
 **4/13(火)**　20:00~20:45　Python で LINE Bot を 作るライブコーディング　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
 対象レベル：
 
 必要な物：
+
+---
 
 <!-- ページ内遷移用のaタグ -->
 <a id="join"></a>
