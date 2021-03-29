@@ -71,25 +71,25 @@
 
 必要な物：
 
-**4/9(金)**　19:15~20:00　プログラミングを始めよう！　by　[@imd555](https://twitter.com/imd555)
+**4/9(金)　19:15~20:00　プログラミングを始めよう！**　by　[@imd555](https://twitter.com/imd555)
 
 対象レベル：
 
 必要な物：
 
-**4/9(金)**　20:00~20:45　オセロを 30 分で作るライブコーディング　by　[@monkukui2](https://twitter.com/monkukui2)
+**4/9(金)　20:00~20:45　オセロを 30 分で作るライブコーディング**　by　[@monkukui2](https://twitter.com/monkukui2)
 
 対象レベル：
 
 必要な物：
 
-**4/13(火)**　19:15~20:00　json ってなに？から始めるデータ記述言語紹介　by　[@ayumin](https://twiiter.com/shoumoji)
+**4/13(火)　19:15~20:00　json ってなに？から始めるデータ記述言語紹介**　by　[@ayumin](https://twiiter.com/shoumoji)
 
 対象レベル：
 
 必要な物：
 
-**4/13(火)**　20:00~20:45　Python で LINE Bot を 作るライブコーディング　by　[@takapiro_99](https://twitter.com/takapiro_99)
+**4/13(火)　20:00~20:45　Python で LINE Bot を 作るライブコーディング**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
 対象レベル：
 
