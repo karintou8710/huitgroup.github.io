@@ -61,11 +61,14 @@
 
 **4/2(金)　19:15~20:00　ぼくがかんがえるさいきょうのハッカーのなりかた**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
-対象レベル：
+- 対象レベル
+    - 誰でも
 
-概要：
+- 概要
+    - ぼくのかんがえたさいきょうのハッカーのなりかたを紹介します。
 
-必要な物：
+- 必要な物
+    - なし
 
 <br>
 
@@ -84,11 +87,24 @@
 
 **4/9(金)　19:15~20:00　プログラミングを始めよう！**　by　[@imd555](https://twitter.com/imd555)
 
-対象レベル：
+- 対象レベル
+    - 「クリック」「ダウンロード」「インストール」がわかる
 
-概要：
+- 概要
+    - ログラミングに欠かせない「エディタ」をインストールした後、C/C++の構文を学び、数行の簡単なプログラムを書いてみる
 
-必要な物：
+- 必要な物
+    - パソコン（Windowsを想定、Macも可）
+
+- 事前準備
+    - パソコンにZoomをインストール
+    - Zoom画面共有のやり方を確認（トラブル時、画面共有してもらいたい）
+    - パソコンにVSCodeをダウンロード（数分以上かかることがあるため）
+    https://code.visualstudio.com/ の「Download for Windows  Stable Build」をクリック
+    - 自信がない人は、下記資料を予習してください
+        - [プログラミングを始めよう！](https://hackmd.io/@9FXP0EyLTGiGJ7XgTi_1tQ/ry8jylPE_) （「Live Shareを設定する」までやっていいです）
+        - [C/C++のお勉強](https://hackmd.io/@9FXP0EyLTGiGJ7XgTi_1tQ/HkuLiXw4_)
+    - 質問は [@IMD555](https://twitter.com/IMD555?s=20) まで
 
 <br>
 
@@ -100,18 +116,21 @@
 - 概要
     - C++ で CL で動くオセロをライブコーディング
 
-- 必要なこと
-    - C++（or C）の基礎的な文法の事前学習
+- 必要な物
+    - なし
+
+- 事前学習
+    -  C++（or C）の基礎的な文法
 
 <br>
 
 **4/20(火)　19:15~20:00　json ってなに？から始めるデータ記述言語紹介**　by　[@ayumin](https://twiiter.com/shoumoji)
 
 - 対象レベル
-    - プログラミングは何となく知ってるけど実際にやったことはない方
+    - プログラミングについて知ってはいるけど、やったことはない人
 
 - 概要
-    - LINE Botを作成する上で使用されるjsonの解説
+    -  Line Botを作るのに必要な JSON についての説明と、その他のデータ記述言語の紹介
 
 - 必要な物
     - なし
@@ -120,11 +139,14 @@
 
 **4/20(火)　20:00~20:45　Python で LINE Bot を 作るライブコーディング**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
-対象レベル：
+- 対象レベル
+    - 誰でも
 
-概要：
+- 概要
+    - じゃんけん LINE BOT を作ります。<!--（仮）その様子をライブ配信します。-->
 
-必要な物：
+- 必要な物
+    - なし
 
 <br>
 
@@ -136,7 +158,7 @@
 ### 📝 新歓の参加方法
 
 <!-- フォームのURLは未設定 -->
-1. [こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe8yyWIPMa-cB4NiONBPLOeMuwXxO6gpRNIMOQoK9J4qOI-fw/viewform?usp=sf_link)を入力をしてZoomのリンクをメールで受け取る。
+1. [こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe8yyWIPMa-cB4NiONBPLOeMuwXxO6gpRNIMOQoK9J4qOI-fw/viewform?usp=pp_url&entry.1215451872=%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B)を入力をしてZoomのリンクを受け取る。(当日開始日までにメールで送ります)
 
 2. 新歓当日に受け取ったリンクをクリックして参加する。
 
