@@ -1,5 +1,7 @@
 ![image]({{site.baseurl}}/logo192.png)
 
+<!-- {{site.baseurl}}はレポジトリの設定によっては/sample...で上手く出来ない時があるので必要 -->
+
 # HUIT 北大 IT 研究会
 
 <!-- [English Page](/en.index) -->
@@ -23,14 +25,11 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 活動紹介の他、ライブコーディングや部員による LT（ライトニングトーク）など、様々なイベントを開催します！
 
-全てオンライン（Zoom）での開催となります。参加方法などは現在準備中なので、更新をお待ちください。
-（3/23 現在）
+2021年度の新歓は全てオンライン（Zoom）での開催となります。
 
-<!--  target="_blank"を使用する為htmlタグを直接書く -->
+<!--  target="_blank"を使用する為aタグを直接書く -->
 
 <a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
-
-<!-- （仮画像） -->
 
 ![image]({{site.baseurl}}/WelcomePartySchedule.png)
 

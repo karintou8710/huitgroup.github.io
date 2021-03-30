@@ -2,8 +2,7 @@
 
 活動紹介の他、ライブコーディングや部員による LT（ライトニングトーク）など、様々なイベントを開催します！
 
-全てオンライン（Zoom）での開催となります。参加方法などは現在準備中なので、更新をお待ちください。
-（3/23 現在）
+2021年度の新歓は全てオンライン（Zoom）での開催となります。
 
 <!--各セッションは日本語で行われます。-->
 
@@ -30,7 +29,7 @@
 | ------------ | ----------- | ----------------------------------------------- | ---------------------------------------------- |
 | **4/2(金)**  |             |                                                 |                                                |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ①            | 19:15~20:00 | [@takapiro_99](https://twitter.com/takapiro_99) | ぼくがかんがえるさいきょうのハッカーのなりかた |
+| ①            | 19:15~20:00 | [@takapiro_99](https://twitter.com/takapiro_99) | ぼくのかんがえたさいきょうのハッカーのなりかた |
 | ②            | 20:00~20:45 | [@gojiteji](https://twitter.com/gojiteji)       | Python によるデータ整形                        |
 | **4/9(金)**  |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
@@ -38,7 +37,7 @@
 | ②            | 20:00~20:45 | [@monkukui2](https://twitter.com/monkukui2)     | オセロを 30 分で作るライブコーディング         |
 | **4/20(火)** |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ①            | 19:15~20:00 | [@ayumin](https://twiiter.com/shoumoji)         | json ってなに？から始めるデータ記述言語紹介    |
+| ①            | 19:15~20:00 | [@ayumin](https://twiiter.com/shoumoji)         | json ってなに？から始めるデータ記述言語    |
 | ②            | 20:00~20:45 | [@takapiro_99](https://twitter.com/takapiro_99) | Python で LINE Bot を 作るライブコーディング    |
 | **4/23(金)** |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                   |
@@ -47,8 +46,6 @@
 | **4/30(金)** |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
 | ①            | 19:15~20:45 |                                                 | （未定）                                       |
-
-<!-- （仮画像） -->
 
 ![image]({{site.baseurl}}/WelcomePartySchedule.png)
 
@@ -59,7 +56,7 @@
 
 ### 📘 各発表の詳細
 
-**4/2(金)　19:15~20:00　ぼくがかんがえるさいきょうのハッカーのなりかた**　by　[@takapiro_99](https://twitter.com/takapiro_99)
+**4/2(金)　19:15~20:00　ぼくのかんがえたさいきょうのハッカーのなりかた**　by　[@takapiro_99](https://twitter.com/takapiro_99)
 
 - 対象レベル
     - 誰でも
@@ -91,7 +88,7 @@
     - 「クリック」「ダウンロード」「インストール」がわかる
 
 - 概要
-    - ログラミングに欠かせない「エディタ」をインストールした後、C/C++の構文を学び、数行の簡単なプログラムを書いてみる
+    - プログラミングに欠かせない「エディタ」をインストールした後、C/C++の構文を学び、数行の簡単なプログラムを書いてみる
 
 - 必要な物
     - パソコン（Windowsを想定、Macも可）
@@ -100,11 +97,12 @@
     - パソコンにZoomをインストール
     - Zoom画面共有のやり方を確認（トラブル時、画面共有してもらいたい）
     - パソコンにVSCodeをダウンロード（数分以上かかることがあるため）
-    https://code.visualstudio.com/ の「Download for Windows  Stable Build」をクリック
+    [https://code.visualstudio.com/](https://code.visualstudio.com/) の「Download for Windows  Stable Build」をクリック
     - 自信がない人は、下記資料を予習してください
         - [プログラミングを始めよう！](https://hackmd.io/@9FXP0EyLTGiGJ7XgTi_1tQ/ry8jylPE_) （「Live Shareを設定する」までやっていいです）
         - [C/C++のお勉強](https://hackmd.io/@9FXP0EyLTGiGJ7XgTi_1tQ/HkuLiXw4_)
-    - 質問は [@IMD555](https://twitter.com/IMD555?s=20) まで
+
+- 質問は [@IMD555](https://twitter.com/IMD555?s=20) まで
 
 <br>
 
@@ -119,12 +117,12 @@
 - 必要な物
     - なし
 
-- 事前学習
-    -  C++（or C）の基礎的な文法
+- 事前準備
+    -  C++（or C）の基礎的な文法の学習
 
 <br>
 
-**4/20(火)　19:15~20:00　json ってなに？から始めるデータ記述言語紹介**　by　[@ayumin](https://twiiter.com/shoumoji)
+**4/20(火)　19:15~20:00　json ってなに？から始めるデータ記述言語**　by　[@ayumin](https://twiiter.com/shoumoji)
 
 - 対象レベル
     - プログラミングについて知ってはいるけど、やったことはない人
