@@ -157,7 +157,7 @@
 
 ### 📝 新歓の参加方法
 
-1. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8yyWIPMa-cB4NiONBPLOeMuwXxO6gpRNIMOQoK9J4qOI-fw/viewform?usp=pp_url&entry.1215451872=%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B" target="_blank" rel="noopener noreferrer">こちらのフォーム</a>
+1. <a href="https://forms.gle/QFouk7eM2FJ62ZDB6" target="_blank" rel="noopener noreferrer">こちらのフォーム</a>
 を入力をしてZoomのリンクを受け取る。(当日開始日までにメールで送ります)
 
 2. 新歓当日に受け取ったリンクをクリックして参加する。
